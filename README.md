@@ -3,9 +3,9 @@ This is an iBeacon management web application based on Angular 2
 
 This web application has developed using Angular 2.0 in Visual Studio 2015 with ASP.NET Core project template.
 
-It basicully caters Gimbal iBeacons to configure, add to location and find via Gimbal REST interface. I have used following technologies to develop this web application.
+It basicully caters Gimbal iBeacons to configure, add to a physical location and find via Gimbal REST interface. I have used following technologies to develop this web application.
 
--Angular 2.0
+-Angular 2.0<br />
   common
   core
   platform-browser
@@ -30,3 +30,6 @@ Home Page:
 Beacons:
 
 ![alt_tag] (https://cloud.githubusercontent.com/assets/15150932/20244462/13c8edb6-a9e8-11e6-8e5b-300e37102279.png)
+
+What next:
+-Gimbal API integration
