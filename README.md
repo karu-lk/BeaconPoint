@@ -7,10 +7,10 @@ It basicully caters Gimbal iBeacons to configure, add to a physical location and
 <br /><br />
 - Angular 2.0<br />
   * common<br />
-- core<br />
-- platform-browser<br />
-- platform-browser-dynamic<br />
-- router<br />
+  * core<br />
+  * platform-browser<br />
+  * platform-browser-dynamic<br />
+  * router<br />
 - rxjs<br />
 - systemjs<br />
 - zone.js<br />
@@ -32,5 +32,5 @@ Beacons:
 ![alt_tag] (https://cloud.githubusercontent.com/assets/15150932/20244462/13c8edb6-a9e8-11e6-8e5b-300e37102279.png)
 
 What next:<br />
--Gimbal API integration<br />
--OAuth Authentication
+- Gimbal API integration<br />
+- OAuth Authentication
