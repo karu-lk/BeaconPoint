@@ -6,7 +6,7 @@ This web application has developed using Angular 2.0 in Visual Studio 2015 with 
 It basicully caters Gimbal iBeacons to configure, add to a physical location and find via Gimbal REST interface. I have used following technologies to develop this web application.
 <br /><br />
 - Angular 2.0<br />
-- common<br />
+* common<br />
 - core<br />
 - platform-browser<br />
 - platform-browser-dynamic<br />
