@@ -21,8 +21,12 @@ It basicully caters Gimbal iBeacons to configure, add to location and find via G
 -ASP.NET Core
 -TypeScript
 
+
 Home Page:
+
 ![alt tag](https://cloud.githubusercontent.com/assets/15150932/20244446/421e3fbe-a9e7-11e6-97d9-0b2837d872b5.png)
 
+
 Beacons:
+
 ![alt_tag] (https://cloud.githubusercontent.com/assets/15150932/20244462/13c8edb6-a9e8-11e6-8e5b-300e37102279.png)
