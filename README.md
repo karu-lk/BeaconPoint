@@ -7,19 +7,19 @@ It basicully caters Gimbal iBeacons to configure, add to a physical location and
 <br /><br />
 - Angular 2.0<br />
 - common<br />
-  core<br />
-  platform-browser<br />
-  platform-browser-dynamic<br />
-  router<br />
--rxjs<br />
--systemjs<br />
--zone.js<br />
--webpack<br />
--gulp<br />
--karma<br />
--npm<br />
--ASP.NET Core<br />
--TypeScript<br />
+- core<br />
+- platform-browser<br />
+- platform-browser-dynamic<br />
+- router<br />
+- rxjs<br />
+- systemjs<br />
+- zone.js<br />
+- webpack<br />
+- gulp<br />
+- karma<br />
+- npm<br />
+- ASP.NET Core<br />
+- TypeScript<br />
 <br /><br />
 
 Home Page:
