@@ -22,4 +22,5 @@ It basicully caters Gimbal iBeacons to configure, add to location and find via G
 -TypeScript
 
 Home Page:
-https://cloud.githubusercontent.com/assets/15150932/20244446/421e3fbe-a9e7-11e6-97d9-0b2837d872b5.png
+![alt tag](https://cloud.githubusercontent.com/assets/15150932/20244446/421e3fbe-a9e7-11e6-97d9-0b2837d872b5.png)
+
